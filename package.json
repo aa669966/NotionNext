@@ -8,9 +8,9 @@
     "url": "https://github.com/tangly1024/NotionNext.git"
   },
   "author": {
-    "name": "tangly",
-    "email": "mail@tangly1024.com",
-    "url": "http://tangly1024.com"
+    "name": "阿泽",
+    "email": "flyspeek@gmail.com",
+    "url": "http://aze66.top"
   },
   "scripts": {
     "dev": "next dev",
@@ -72,7 +72,7 @@
     "axios": ">=0.21.1"
   },
   "bugs": {
-    "url": "https://github.com/tangly/NotionNext/issues",
-    "email": "tlyong1992@hotmail.com"
+    "url": "https://aze66.top",
+    "email": "flyspeek@gmail.com"
   }
 }
