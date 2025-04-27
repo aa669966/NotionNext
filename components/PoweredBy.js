@@ -11,7 +11,7 @@ export default function PoweredBy(props) {
       {/* 修改这里的内容 */}
       <span className='mr-1'>power by</span>
       <a
-        href='https://github.com/tangly1024/NotionNext'
+        href='https://aze66.top'
         className='underline justify-start'>
         阿泽 {siteConfig('VERSION')}
       </a>
