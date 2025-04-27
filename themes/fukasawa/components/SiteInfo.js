@@ -1,6 +1,4 @@
-import { BeiAnGongAn } from '@/components/BeiAnGongAn'
-import { siteConfig } from '@/lib/config'
-
+ // NotionNext/themes/fukasawa/components/SiteInfo.js
 function SiteInfo({ title }) {
   const d = new Date()
   const currentYear = d.getFullYear()
@@ -39,11 +37,12 @@ function SiteInfo({ title }) {
         </span>
         <br />
         <span className='text-xs font-serif'>
-          Powered by
+          {/* 修改这里的内容 */}
+          由其他内容驱动
           <a
             href='https://github.com/tangly1024/NotionNext'
             className='underline'>
-            NotionNext {siteConfig('VERSION')}
+            自定义名称 {siteConfig('VERSION')}
           </a>
         </span>
         <br />
@@ -52,4 +51,3 @@ function SiteInfo({ title }) {
     </footer>
   )
 }
-export default SiteInfo
