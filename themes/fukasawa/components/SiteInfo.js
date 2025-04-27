@@ -38,11 +38,11 @@ function SiteInfo({ title }) {
         <br />
         <span className='text-xs font-serif'>
           {/* 修改这里的内容 */}
-          由其他内容驱动
+          Powered By
           <a
-            href='https://github.com/tangly1024/NotionNext'
+            href='https://aze66.top'
             className='underline'>
-            自定义名称 {siteConfig('VERSION')}
+            阿泽 {siteConfig('VERSION')}
           </a>
         </span>
         <br />
