@@ -13,7 +13,7 @@ export default function PoweredBy(props) {
       <a
         href='https://aze66.top'
         className='underline justify-start'>
-        阿泽 {siteConfig('VERSION')}
+        行己所爱 {siteConfig('VERSION')}
       </a>
       .
     </div>
