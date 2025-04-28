@@ -42,7 +42,7 @@ function SiteInfo({ title }) {
           <a
             href='https://aze66.top'
             className='underline'>
-            阿泽 {siteConfig('VERSION')}
+            行己所爱 爱己所行 {siteConfig('VERSION')}
           </a>
         </span>
         <br />
