@@ -38,7 +38,7 @@ function SiteInfo({ title }) {
         <br />
         <span className='text-xs font-serif'>
           {/* 修改这里的内容 */}
-          Powered By
+          行己所爱 爱己所行
           <a
             href='https://aze66.top'
             className='underline'>
